@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahdi
-- 👀 I’m interested in (*_*)
+- 👀 I’m interested in (Animation , Art  and Programing)
 - 🌱 I’m currently learning Swift
 
 <!---
